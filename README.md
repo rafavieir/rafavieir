@@ -25,14 +25,6 @@ Infra **estável, observável e automatizada**. Trabalho com **Linux, virtualiza
 
 - **hoje:** hardening, **backups testados**, scripts de manutenção (**Bash/Python**) e runbooks curtos  
 - **foco:** **SLI/SLO**, alertas úteis (sem ruído), pipelines simples com Git e procedimentos claros de rollback
-
-
-### projetos (curtos)
-- **nginx-https-starter** — reverso + TLS/ACME e headers seguros  
-- **ansible-linux-baseline** — usuários, SSH, logs e hardening  
-- **observability-kit** — Prometheus + Grafana + exporters comuns  
-- **pve-toolbox** — scripts pra rotina no Proxmox
-
 ### contato
 <div align="left">
   <a href="mailto:SEUEMAIL@exemplo.com">
