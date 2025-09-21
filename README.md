@@ -21,10 +21,11 @@
 ---
 
 ### sobre
-Infra estável, observável e automatizada. Trabalho com Linux, virtualização, redes e automação mudanças pequenas, métricas que importam e documentação objetiva.
+Infra **estável, observável e automatizada**. Trabalho com **Linux, virtualização, redes e automação** — mudanças pequenas, métricas que importam e **documentação objetiva**.
 
-- hoje: hardening, backups testados, playbooks Ansible e runbooks curtos  
-- foco: SLI/SLO, alertas úteis, pipelines simples e reversíveis
+- **hoje:** hardening, **backups testados**, scripts de manutenção (**Bash/Python**) e runbooks curtos  
+- **foco:** **SLI/SLO**, alertas úteis (sem ruído), pipelines simples com Git e procedimentos claros de rollback
+
 
 ### projetos (curtos)
 - **nginx-https-starter** — reverso + TLS/ACME e headers seguros  
