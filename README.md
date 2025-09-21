@@ -5,17 +5,9 @@
   <!-- Stack essencial -->
   <img src="https://skillicons.dev/icons?i=linux" height="44" alt="linux" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=debian" height="44" alt="debian" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="44" alt="ubuntu" />
-  <img width="6" />
   <img src="https://skillicons.dev/icons?i=docker" height="44" alt="docker" />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="44" alt="nginx" />
-  <img width="6" />
   <img src="https://skillicons.dev/icons?i=ansible" height="44" alt="ansible" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=prometheus" height="44" alt="prometheus" />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=grafana" height="44" alt="grafana" />
   <img width="6" />
