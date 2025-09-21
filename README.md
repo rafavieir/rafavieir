@@ -43,7 +43,3 @@ Infra **estável, observável e automatizada**. Trabalho com **Linux, virtualiza
   </a>
 </div>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafavieir&show_icons=true&hide_title=true" height="140" />
-</div>
-
