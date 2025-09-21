@@ -1,107 +1,52 @@
-
-````md
-<!-- Banner / título -->
 <h1 align="center">Rafael Vieira</h1>
-<p align="center">
-  <b>SRE Linux · Analista de Sistemas</b><br/>
-  Infra estável, observável e automatizada — sem drama.
-</p>
 
-<p align="center">
-  <a href="mailto:SEUEMAIL@exemplo.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/SEULINK/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rafael%20Vieira-0A66C2?logo=linkedin&logoColor=white">
-  </a>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-Admin-333?logo=linux&logoColor=white">
-  <img alt="SRE" src="https://img.shields.io/badge/SRE-ops%20%F0%9F%9A%A7-222">
-</p>
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-### 👋 Sobre mim
-Profissional focado em **Linux**, **virtualização**, **redes** e **automação**. Gosto de mudanças pequenas, métricas que importam e pós-mortem sem caça às bruxas.
+###
 
-- **Hoje:** hardening, backups testados, playbooks Ansible e runbooks enxutos.  
-- **Stack:** Proxmox/KVM, Docker/Compose, Nginx, PostgreSQL, Git, Bash/Python.  
-- **Obs.:** Prometheus, Grafana, Loki, Alertmanager e integrações.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
----
+###
 
-### 🛠️ Tech Stack (prático)
-<p>
-  <img src="https://img.shields.io/badge/Linux-🐧-black?logo=linux" />
-  <img src="https://img.shields.io/badge/Proxmox-VE-E57000?logo=proxmox" />
-  <img src="https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-Automation-EE0000?logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-Reverse%20Proxy-009639?logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-DB-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-Metrics-E6522C?logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-Dashboards-F46800?logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-Scripting-121011?logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-CLI-3776AB?logo=python&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
----
+###
 
-### 🚀 O que curto entregar
-- **IaC & Pipelines:** deploy previsível e reversível.  
-- **Observabilidade de verdade:** SLI/SLO, alertas úteis (sem pager spam).  
-- **Automação pé-no-chão:** scripts que a equipe entende e consegue manter.  
-- **Segurança por padrão:** princípio do menor privilégio e TLS em tudo.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
----
-
-### 📦 Projetos & exemplos (curtos)
-- **nginx-https-starter** — Nginx reverso com ACME automático (Let’s Encrypt) e headers seguros.  
-- **ansible-linux-baseline** — hardening básico, usuários, SSH, logs.  
-- **pve-toolbox** — scripts para templates, tags e backups no Proxmox.  
-- **observability-kit** — Prometheus + Grafana + exporters comuns, pronto pra subir.
-
-> Coloco links reais conforme eu for abrindo os repositórios públicos.
-
----
-
-### 📈 Métricas (automáticas – opcional)
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=transparent" alt="GitHub stats" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSUARIO&theme=transparent" alt="GitHub streak" />
-</p>
-
----
-
-### 📚 Snippets que me representam
-```bash
-# Deploy seguro e reversível
-git tag -a v1.4 -m "release"
-ansible-playbook site.yml --limit=prod || { echo "rollback"; ansible-playbook rollback.yml; }
-````
-
-```yaml
-# Alert(a) só quando importa
-alert: HighWriteLatency
-expr: node_disk_written_bytes_total > 150*1024*1024
-for: 10m
-labels: { severity: warning }
-annotations:
-  summary: "IO alto em {{ $labels.instance }}"
-  runbook: "docs/runbooks/storage-latency.md"
-```
-
----
-
-### 📬 Contato
-
-* **LinkedIn:** [https://www.linkedin.com/in/SEULINK/](https://www.linkedin.com/in/SEULINK/)
-* **E-mail:** [SEUEMAIL@exemplo.com](mailto:SEUEMAIL@exemplo.com)
-* **Chave GPG (opcional):** `FINGERPRINT_AQUI`
-
-<sub>“Você não gerencia o que não mede. Você não melhora o que não automatiza.”</sub>
-
-```
-
-Quer que eu já troque os placeholders (email, LinkedIn, usuário do GitHub) e crie os nomes dos repositórios citados?
-```
+###
