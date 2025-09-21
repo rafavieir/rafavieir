@@ -21,7 +21,7 @@
 ---
 
 ### sobre
-Infra estável, observável e automatizada. Trabalho com Linux, virtualização, redes e automação — mudanças pequenas, métricas que importam e documentação objetiva.
+Infra estável, observável e automatizada. Trabalho com Linux, virtualização, redes e automação mudanças pequenas, métricas que importam e documentação objetiva.
 
 - hoje: hardening, backups testados, playbooks Ansible e runbooks curtos  
 - foco: SLI/SLO, alertas úteis, pipelines simples e reversíveis
@@ -42,9 +42,7 @@ Infra estável, observável e automatizada. Trabalho com Linux, virtualização,
   </a>
 </div>
 
-<!-- opcional: stats simples (deixe ou remova) -->
-<!--
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&hide_title=true" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafavieir&show_icons=true&hide_title=true" height="140" />
 </div>
--->
+
