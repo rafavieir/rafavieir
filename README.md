@@ -1,4 +1,3 @@
-Show! Mandei um **README.md** prontinho pra usar como *GitHub Profile*. É simples, bonito e com uma vibe SRE Linux / Analista de Sistemas. É só criar um repositório chamado **`rafaelvieira/rafaelvieira`** (ou com seu usuário exato) e colocar este arquivo como `README.md`.
 
 ````md
 <!-- Banner / título -->
