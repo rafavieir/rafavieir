@@ -27,10 +27,7 @@ Infra **estável, observável e automatizada**. Trabalho com **Linux, virtualiza
 - **foco:** **SLI/SLO**, alertas úteis (sem ruído), pipelines simples com Git e procedimentos claros de rollback
 ### contato
 <div align="left">
-  <a href="mailto:SEUEMAIL@exemplo.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=0B5BD3&logoColor=white&style=for-the-badge" height="24" />
-  </a>
-  <a href="https://www.linkedin.com/in/SEULINK/">
+  <a href="https://www.linkedin.com/in/rafaelvieir/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="24" />
   </a>
 </div>
