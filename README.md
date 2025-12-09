@@ -14,6 +14,8 @@
   <img src="https://skillicons.dev/icons?i=bash" height="44" alt="bash" />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=python" height="44" alt="python" />
+    <img width="6" />
+  <img src="https://skillicons.dev/icons?i=golang" height="44" alt="golang" />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=git" height="44" alt="git" />
 </div>
