@@ -21,16 +21,3 @@
 </div>
 
 ---
-
-### sobre
-Infra **estável, observável e automatizada**. Trabalho com **Linux, virtualização, redes e automação**, métricas que importam e **documentação objetiva**.
-
-- **hoje:** hardening, **backups testados**, scripts de manutenção (**Bash/Python**) e runbooks curtos  
-- **foco:** **SLI/SLO**, alertas úteis (sem ruído), pipelines simples com Git e procedimentos claros de rollback
-### contato
-<div align="left">
-  <a href="https://www.linkedin.com/in/rafaelvieir/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="24" />
-  </a>
-</div>
-
